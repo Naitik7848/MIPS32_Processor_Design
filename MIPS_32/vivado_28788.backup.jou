@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Sep 13 15:59:17 2024
+# Process ID: 28788
+# Current directory: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16196 C:\Users\PANDYA NAITIK\NAITIK PANDYA\study meterial SEM 5\VLSID\MIPS32\MIPS32.xpr
+# Log file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/vivado.log
+# Journal file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32\vivado.jou
+# Running On        :LAPTOP-QF3HB3JI
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8327 MB
+# Swap memory       :7516 MB
+# Total Virtual     :15843 MB
+# Available Virtual :3960 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS32.xpr}
+update_compile_order -fileset sources_1
