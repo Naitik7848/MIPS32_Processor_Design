@@ -49,7 +49,7 @@ This project implements a MIPS 32 microprocessor using Verilog in Xilinx Vivado.
     
 
 ## Acknowledgments
-This project was developed with guidance from the NPTEL course on processor design. Special thanks to the course instructors for their detailed explanations and resources.
+This project was developed with guidance from the NPTEL course on HARDWARE MODELING USING VERILOG. Special thanks to the course instructors for their detailed explanations and resources.
 
 ## How to Run the Project
 1. Clone this repository:
