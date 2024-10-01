@@ -22,19 +22,37 @@ This project implements a MIPS 32 microprocessor using Verilog in Xilinx Vivado.
 - **Verilog**: Hardware description language used to implement the microprocessor.
 
 ## Project Structure
-/src ├── datapath.v # Verilog code for the datapath ├── control_unit.v # Verilog code for the control unit └── memory.v # Memory module used for instruction and data storage
-
-/testbench ├── tb_mips32.v # Testbench to verify processor functionality through simulation
-
+```plaintext
+|-- src/
+|   |-- datapath.v           # Datapath design
+|   |-- control_unit.v       # Control unit logic
+|   |-- memory.v             # Memory management
+|
+|-- testbench/
+|   |-- testbench.v          # Testbench for simulation and verification
+```
 ## Sample Output
 
 ### Sample Waveform Output
-![Waveform Screenshot](path-to-your-waveform-image)
+![Waveform Screenshot](image.png)
 
 ### Printed Outcomes
-![Printed Output](path-to-your-printed-outcome-image)
+    R2 = 2
+    R2 = 1
+    R2 = 7
+    R2 = 42
+    R2 = 210
+    R2 = 840
+    R2 = 2520
+    R2 = 5040
+    mem[200] = 7, mem[198]: 5040
+    
+
+## Acknowledgments
+This project was developed with guidance from the NPTEL course on processor design. Special thanks to the course instructors for their detailed explanations and resources.
 
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/mips32-processor.git
+   git clone https://github.com/Naitik7848/mips32-processor.git
+   ```
