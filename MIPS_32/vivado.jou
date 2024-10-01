@@ -3,12 +3,12 @@
 # SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
 # IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
 # SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Fri Sep 27 18:24:22 2024
-# Process ID: 12396
-# Current directory: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22032 C:\Users\PANDYA NAITIK\NAITIK PANDYA\study meterial SEM 5\VLSID\MIPS32\MIPS32.xpr
-# Log file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/vivado.log
-# Journal file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32\vivado.jou
+# Start of session at: Fri Sep 27 18:57:28 2024
+# Process ID: 11780
+# Current directory: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS_32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20916 C:\Users\PANDYA NAITIK\NAITIK PANDYA\study meterial SEM 5\VLSID\MIPS32\MIPS_32\MIPS32.xpr
+# Log file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS_32/vivado.log
+# Journal file: C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS_32\vivado.jou
 # Running On        :LAPTOP-QF3HB3JI
 # Platform          :Windows Server 2016 or Windows 10
 # Operating System  :22631
@@ -19,11 +19,8 @@
 # Host memory       :8327 MB
 # Swap memory       :7516 MB
 # Total Virtual     :15843 MB
-# Available Virtual :6440 MB
+# Available Virtual :5030 MB
 #-----------------------------------------------------------
 start_gui
-open_project {C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS32.xpr}
+open_project {C:/Users/PANDYA NAITIK/NAITIK PANDYA/study meterial SEM 5/VLSID/MIPS32/MIPS_32/MIPS32.xpr}
 update_compile_order -fileset sources_1
-launch_simulation
-source MIPS_tb.tcl
-close_sim
